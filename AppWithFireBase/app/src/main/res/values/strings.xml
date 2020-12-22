@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GroupApplication</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="your_username">Your Username</string>
+    <string name="your_pw">Your Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="enterUn">Enter your username</string>
+    <string name="enterPw">Enter password</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="img">img</string>
+    <string name="logout">logout</string>
+    <string name="home_page">Home Page</string>
+    <string name="line">line</string>
+    <string name="pI">Personal Information</string>
+    <string name="qa">Quick Add Medicine</string>
+    <string name="mvl">Medicine View List</string>
+    <string name="med_name">Medicine Name:</string>
+    <string name="dosage">Dosage:</string>
+    <string name="time">Time to have:</string>
+    <string name="hmtad">Times a day:</string>
+    <string name="add">add</string>
+    <string name="name">Name</string>
+    <string name="dos">Dosage</string>
+    <string name="tme">Time</string>
+    <string name="save">Save</string>
+</resources>
